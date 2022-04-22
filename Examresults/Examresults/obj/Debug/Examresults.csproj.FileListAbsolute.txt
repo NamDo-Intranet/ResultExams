@@ -1,0 +1,10 @@
+C:\Users\zodia\Documents\New folder\mysql\Examresults\Examresults\bin\Debug\Examresults.exe.config
+C:\Users\zodia\Documents\New folder\mysql\Examresults\Examresults\bin\Debug\Examresults.exe
+C:\Users\zodia\Documents\New folder\mysql\Examresults\Examresults\bin\Debug\Examresults.pdb
+C:\Users\zodia\Documents\New folder\mysql\Examresults\Examresults\obj\Debug\Examresults.csproj.AssemblyReference.cache
+C:\Users\zodia\Documents\New folder\mysql\Examresults\Examresults\obj\Debug\Examresults.Form1.resources
+C:\Users\zodia\Documents\New folder\mysql\Examresults\Examresults\obj\Debug\Examresults.Properties.Resources.resources
+C:\Users\zodia\Documents\New folder\mysql\Examresults\Examresults\obj\Debug\Examresults.csproj.GenerateResource.cache
+C:\Users\zodia\Documents\New folder\mysql\Examresults\Examresults\obj\Debug\Examresults.csproj.CoreCompileInputs.cache
+C:\Users\zodia\Documents\New folder\mysql\Examresults\Examresults\obj\Debug\Examresults.exe
+C:\Users\zodia\Documents\New folder\mysql\Examresults\Examresults\obj\Debug\Examresults.pdb
